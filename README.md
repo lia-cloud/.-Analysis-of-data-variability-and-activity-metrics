@@ -1,5 +1,7 @@
 # Analysis of data variability and activity metrics
 
+[Project overview](https://docs.google.com/spreadsheets/d/1eqk7-mAV0rZg_8yq54jEIW7VwTU1wBpRzWKuY7fS6I4/edit?gid=1336029640#gid=1336029640)
+
 ## The "Active Users and Activity" document tracks and analyzes user engagement over time. Here's what it does:
 
 1. Tracks Active Users: It keeps a record of the number of unique users who are active on a daily and weekly basis.
@@ -17,3 +19,5 @@
 7. Visualizes Data: Charts and pivot tables are used to visually represent the data, making it easier to spot trends and make informed decisions.
 
 8. Performs Cohort Analysis: The document may include cohort analysis to understand the behavior and retention of groups of users over time.
+   
+
